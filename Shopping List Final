@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Title</title>
+        
+      
+    </head>
+    <body>
+      <ul>
+        <Li>Dairy</Li>
+          <ol>
+          <Li>Milk</Li> 
+              <img src="Milk%20image.jpg" alt="Milk" width="200">
+            <Li>yogurt</Li>
+                 <img src="Yogurt%20image.jpg" alt= "Yogurt" width= "150">    
+            <Li>Butter</Li>
+                <img src="Butter%20image.jpg" alt= "Butter" width= "200">
+            <Li>Cream Cheese</Li>  
+                <img src="Cream%20cheese%20image.jpg" alt= "cream cheese" width="200">
+            <Li>Ice Cream</Li>  
+                <img src="Ice%20cream.jpeg" alt = "ice cream" width ="200">
+                
+              
+          </ol>
+        <Li>Cheese</Li>
+          <ol>
+            <Li>American</Li>  
+                <img src="American%20cheese.jpg" alt= "American cheese" width ="200">
+            <Li>Swiss</Li>  
+                <img src="swiss%20cheese.jpg" alt= "swiss cheese" width= "200">
+            <Li>Cheddar</Li>  
+                <img src="cheddar%20cheese.jpg" alt= "cheddar" width="200">
+            <Li>Cottage</Li>  
+                <img src="cottage.jpg" alt= "Cottage" width="200">
+            <Li>Provolone</Li>  
+               <img src="prov.jpg" alt= "prov" width="200"> 
+              
+          
+          
+          
+          
+          
+          </ol>
+        <Li>Bread</Li> 
+          <ol>
+        <li>White</li>
+            <img src=white%20bread.jpg alt= "white" width="200">
+        <li>Wheat</li>  
+            <img src=wheat.jpg alt= "wheat" width ="200">
+        <li>Croissant</li>  
+            <img src="croissant.jpg" alt= "croissant" width="200">
+        <li>Rye</li>      
+            <img src="rye.jpg" alt ="rye" width="200">
+        <li>Ciabatta</li>   
+            <img src="Ciabatta.jpg" alt= "ciabtta" width= "200">
+          
+          
+          
+          
+          
+          
+          
+          </ol>
+        </ul>
+        
+    <ol>
+        <Li>Snacks</Li>
+        <ul>Chips</ul> 
+          <img src="potato%20chips.jpg" alt="chips" width="200">
+        <ul>Granola Bars</ul>
+            <img src="granola%20bars.jpg" alt= "granoloa" width="200">
+        <ul>Pretzels</ul> 
+            <img src="pretzels.jpg" alt="pretzels" width="200">
+        <ul>Cheez-It</ul> 
+            <img src="Cheez-It-Crackers.jpg" alt="cheez-it" width="200">
+        <ul>Fruit snacks</ul>
+            <img src=welsh%20fruit%20snacks.jpg alt="fruit snacks" width="200">
+        
+        
+        
+        
+        
+           
+        </ol>
+        
+        
+        
+        
+        
+     <ol>
+         <li>Choclate</li>
+         <ul>Dark</ul>
+          <img src="dark.jpg" alt="dark" width="200">
+         <ul>Milk</ul>
+            <img src=milk%20choc.jpg alt=milk width="200">
+         <ul>White</ul>
+           <img src="White-Chocolate.jpg" alt="white" width="200">
+         <ul>Choclate chips</ul>
+             <img src="choclate%20chips.jpg" alt="chips" width="200">
+         <ul>Cocoa bean</ul>
+             <img src="coca%20beans.jpg" alt="beans" width ="200">
+        
+    
+        
+        
+        
+        
+        
+        </ol>
+        
+        
+        
+        
+      
+    </body>
+</html>
